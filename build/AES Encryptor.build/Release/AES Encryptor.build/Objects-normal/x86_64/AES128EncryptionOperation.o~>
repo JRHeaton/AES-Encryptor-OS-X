@@ -1,0 +1,23 @@
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:9:38: error: AES256EncryptionOperation.h: No such file or directory
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:17: warning: cannot find interface declaration for 'AES256EncryptionOperation'
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:17: error: cannot find protocol declaration for 'AES128EncryptionOperationDelegate'
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m: In function '-[AES256EncryptionOperation initWithTarget:delegate:inputData:key:operationType:]':
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:18: error: no super class declared in @interface for 'AES256EncryptionOperation'
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:21: error: 'target' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:21: error: (Each undeclared identifier is reported only once
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:21: error: for each function it appears in.)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:22: error: 'delegate' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:23: error: 'inData' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:24: error: 'key' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:25: error: 'optype' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m: In function '-[AES256EncryptionOperation main]':
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:38: error: 'inData' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:44: error: 'key' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:48: error: 'optype' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:48: error: 'kCryptoOperationTypeEncrypt' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:55: error: 'kCryptoOperationTypeDecrypt' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:70: error: 'delegate' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m: In function '-[AES256EncryptionOperation dealloc]':
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:74: error: 'key' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:75: error: 'inData' undeclared (first use in this function)
+/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m:76: error: no super class declared in @interface for 'AES256EncryptionOperation'

@@ -7,9 +7,9 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "AES128EncryptionOperation.h"
+#import "AES256EncryptionOperation.h"
 
-@interface AES_EncryptorAppDelegate : NSObject <NSApplicationDelegate, NSTextFieldDelegate, AES128EncryptionOperationDelegate> {
+@interface AES_EncryptorAppDelegate : NSObject <NSApplicationDelegate, NSTextFieldDelegate, AES256EncryptionOperationDelegate> {
     NSWindow *window;
 	IBOutlet NSTextField *keyField, *fileField;
 	IBOutlet NSButton *cryptoButton, *browseButton;

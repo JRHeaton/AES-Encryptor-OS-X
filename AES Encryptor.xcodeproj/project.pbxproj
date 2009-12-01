@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
 		256AC3DA0F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */; };
-		522D2D5410C49E4000A9E7D9 /* AES128EncryptionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */; };
+		522D2D5410C49E4000A9E7D9 /* AES256EncryptionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 522D2D5310C49E4000A9E7D9 /* AES256EncryptionOperation.m */; };
 		522D2D8710C4A9C100A9E7D9 /* Lock.png in Resources */ = {isa = PBXBuildFile; fileRef = 522D2D8610C4A9C100A9E7D9 /* Lock.png */; };
 		522D2D8910C4AA2000A9E7D9 /* Lock_Icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 522D2D8810C4AA2000A9E7D9 /* Lock_Icon.icns */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -28,8 +28,8 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
-		522D2D5210C49E4000A9E7D9 /* AES128EncryptionOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AES128EncryptionOperation.h; sourceTree = "<group>"; };
-		522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AES128EncryptionOperation.m; sourceTree = "<group>"; };
+		522D2D5210C49E4000A9E7D9 /* AES256EncryptionOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AES256EncryptionOperation.h; sourceTree = "<group>"; };
+		522D2D5310C49E4000A9E7D9 /* AES256EncryptionOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AES256EncryptionOperation.m; sourceTree = "<group>"; };
 		522D2D8610C4A9C100A9E7D9 /* Lock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lock.png; sourceTree = "<group>"; };
 		522D2D8810C4AA2000A9E7D9 /* Lock_Icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Lock_Icon.icns; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* AES_Encryptor-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "AES_Encryptor-Info.plist"; sourceTree = "<group>"; };
@@ -53,8 +53,8 @@
 			children = (
 				256AC3D80F4B6AC300CF3369 /* AES_EncryptorAppDelegate.h */,
 				256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */,
-				522D2D5210C49E4000A9E7D9 /* AES128EncryptionOperation.h */,
-				522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */,
+				522D2D5210C49E4000A9E7D9 /* AES256EncryptionOperation.h */,
+				522D2D5310C49E4000A9E7D9 /* AES256EncryptionOperation.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -186,7 +186,7 @@
 			files = (
 				8D11072D0486CEB800E47090 /* main.m in Sources */,
 				256AC3DA0F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m in Sources */,
-				522D2D5410C49E4000A9E7D9 /* AES128EncryptionOperation.m in Sources */,
+				522D2D5410C49E4000A9E7D9 /* AES256EncryptionOperation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -12,7 +12,7 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="543"/>
+			<integer value="547"/>
 			<integer value="130"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
@@ -1392,7 +1392,7 @@
 													<int key="NSCellFlags2">272630784</int>
 													<string key="NSContents"/>
 													<reference key="NSSupport" ref="832597248"/>
-													<string key="NSPlaceholderString">Limited to 16 characters</string>
+													<string key="NSPlaceholderString">Limited to 32 characters</string>
 													<reference key="NSControlView" ref="375010453"/>
 													<bool key="NSDrawsBackground">YES</bool>
 													<reference key="NSBackgroundColor" ref="32539672"/>
@@ -1487,7 +1487,7 @@
 													<object class="NSComboTableView" key="NSTableView" id="423007855">
 														<reference key="NSNextResponder"/>
 														<int key="NSvFlags">274</int>
-														<string key="NSFrameSize">{13, 21}</string>
+														<string key="NSFrameSize">{13, 42}</string>
 														<reference key="NSSuperview"/>
 														<reference key="NSWindow"/>
 														<bool key="NSEnabled">YES</bool>
@@ -4144,9 +4144,9 @@
 					<integer value="1"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<integer value="1"/>
-					<string>{{162, 217}, {393, 243}}</string>
+					<string>{{284, 216}, {393, 243}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{162, 217}, {393, 243}}</string>
+					<string>{{284, 216}, {393, 243}}</string>
 					<boolean value="NO"/>
 					<string>{{33, 99}, {480, 360}}</string>
 					<string>{3.40282e+38, 3.40282e+38}</string>

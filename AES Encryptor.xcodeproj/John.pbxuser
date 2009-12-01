@@ -10,15 +10,15 @@
 	256AC3D80F4B6AC300CF3369 /* AES_EncryptorAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {959, 586}}";
-			sepNavSelRange = "{186, 25}";
+			sepNavSelRange = "{314, 0}";
 			sepNavVisRange = "{0, 672}";
 		};
 	};
 	256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {589, 1742}}";
-			sepNavSelRange = "{2452, 0}";
-			sepNavVisRange = "{2095, 579}";
+			sepNavIntBoundsRect = "{{0, 0}, {959, 1469}}";
+			sepNavSelRange = "{2684, 0}";
+			sepNavVisRange = "{1845, 1990}";
 		};
 	};
 	256AC3F00F4B6AF500CF3369 /* AES_Encryptor_Prefix.pch */ = {
@@ -62,11 +62,10 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 281324801;
-			PBXWorkspaceStateSaveDate = 281324801;
+			PBXPerProjectTemplateStateSaveDate = 281327198;
+			PBXWorkspaceStateSaveDate = 281327198;
 		};
 		perUserProjectItems = {
-			5206071910C4AD0A008B6B96 /* PlistBookmark */ = 5206071910C4AD0A008B6B96 /* PlistBookmark */;
 			522D2D1410C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D1410C49C2300A9E7D9 /* PBXTextBookmark */;
 			522D2D1810C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D1810C49C2300A9E7D9 /* PBXTextBookmark */;
 			522D2D1A10C49C2300A9E7D9 /* PBXBookmark */ = 522D2D1A10C49C2300A9E7D9 /* PBXBookmark */;
@@ -80,28 +79,18 @@
 			522D2D6D10C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D6D10C4A75A00A9E7D9 /* PBXTextBookmark */;
 			522D2D6E10C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D6E10C4A75A00A9E7D9 /* PBXTextBookmark */;
 			522D2D7010C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7010C4A75A00A9E7D9 /* PBXTextBookmark */;
-			522D2D7110C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7110C4A75A00A9E7D9 /* PBXTextBookmark */;
-			522D2D7210C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7210C4A75A00A9E7D9 /* PBXTextBookmark */;
-			522D2D7310C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7310C4A75A00A9E7D9 /* PBXTextBookmark */;
-			522D2D9410C4AAFC00A9E7D9 /* PBXTextBookmark */ = 522D2D9410C4AAFC00A9E7D9 /* PBXTextBookmark */;
 			522D2D9510C4AAFC00A9E7D9 /* PBXBookmark */ = 522D2D9510C4AAFC00A9E7D9 /* PBXBookmark */;
 			522D2D9610C4AAFC00A9E7D9 /* PBXTextBookmark */ = 522D2D9610C4AAFC00A9E7D9 /* PBXTextBookmark */;
-			524FD04110C4AB3C00141B0F /* PlistBookmark */ = 524FD04110C4AB3C00141B0F /* PlistBookmark */;
+			52C58FA610C4B7CA00750508 /* PlistBookmark */ = 52C58FA610C4B7CA00750508 /* PlistBookmark */;
+			52C58FA710C4B7CA00750508 /* PBXTextBookmark */ = 52C58FA710C4B7CA00750508 /* PBXTextBookmark */;
+			52C58FA910C4B7CA00750508 /* PBXTextBookmark */ = 52C58FA910C4B7CA00750508 /* PBXTextBookmark */;
+			52C58FBA10C4B8A700750508 /* PBXTextBookmark */ = 52C58FBA10C4B8A700750508 /* PBXTextBookmark */;
+			52C58FBB10C4B8A700750508 /* PBXTextBookmark */ = 52C58FBB10C4B8A700750508 /* PBXTextBookmark */;
+			52C58FCF10C4B9D900750508 /* PBXTextBookmark */ = 52C58FCF10C4B9D900750508 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 522D2C1310C48C9A00A9E7D9 /* Source Control */;
 		userBuildSettings = {
 		};
-	};
-	5206071910C4AD0A008B6B96 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* AES_Encryptor-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/John/Desktop/AES Encryptor/AES_Encryptor-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
 	};
 	522D2C0710C48C7B00A9E7D9 /* AES Encryptor */ = {
 		isa = PBXExecutable;
@@ -318,18 +307,18 @@
 		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSComboBox.h;
 		sourceTree = "<absolute>";
 	};
-	522D2D5210C49E4000A9E7D9 /* AES128EncryptionOperation.h */ = {
+	522D2D5210C49E4000A9E7D9 /* AES256EncryptionOperation.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {959, 586}}";
-			sepNavSelRange = "{634, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {959, 563}}";
+			sepNavSelRange = "{13, 0}";
 			sepNavVisRange = "{0, 826}";
 		};
 	};
-	522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */ = {
+	522D2D5310C49E4000A9E7D9 /* AES256EncryptionOperation.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {959, 1053}}";
-			sepNavSelRange = "{1781, 0}";
-			sepNavVisRange = "{544, 1397}";
+			sepNavIntBoundsRect = "{{0, 0}, {589, 1053}}";
+			sepNavSelRange = "{305, 0}";
+			sepNavVisRange = "{0, 468}";
 		};
 	};
 	522D2D6D10C4A75A00A9E7D9 /* PBXTextBookmark */ = {
@@ -369,46 +358,6 @@
 		vrLen = 2662;
 		vrLoc = 10352;
 	};
-	522D2D7110C4A75A00A9E7D9 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D80F4B6AC300CF3369 /* AES_EncryptorAppDelegate.h */;
-		name = "AES_EncryptorAppDelegate.h: 10";
-		rLen = 25;
-		rLoc = 186;
-		rType = 0;
-		vrLen = 672;
-		vrLoc = 0;
-	};
-	522D2D7210C4A75A00A9E7D9 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */;
-		name = "AES_EncryptorAppDelegate.m: 71";
-		rLen = 0;
-		rLoc = 2310;
-		rType = 0;
-		vrLen = 1448;
-		vrLoc = 0;
-	};
-	522D2D7310C4A75A00A9E7D9 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 522D2D5210C49E4000A9E7D9 /* AES128EncryptionOperation.h */;
-		name = "AES128EncryptionOperation.h: 27";
-		rLen = 0;
-		rLoc = 634;
-		rType = 0;
-		vrLen = 826;
-		vrLoc = 0;
-	};
-	522D2D9410C4AAFC00A9E7D9 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */;
-		name = "AES128EncryptionOperation.m: 61";
-		rLen = 0;
-		rLoc = 1781;
-		rType = 0;
-		vrLen = 1397;
-		vrLoc = 544;
-	};
 	522D2D9510C4AAFC00A9E7D9 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 522D2D8810C4AA2000A9E7D9 /* Lock_Icon.icns */;
@@ -423,17 +372,66 @@
 		vrLen = 45;
 		vrLoc = 0;
 	};
-	524FD04110C4AB3C00141B0F /* PlistBookmark */ = {
+	52C58FA610C4B7CA00750508 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* AES_Encryptor-Info.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
-			NSPrincipalClass,
 		);
-		name = "/Users/John/Desktop/AES Encryptor/AES_Encryptor-Info.plist";
+		name = "/Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775808;
+		rLoc = 9223372036854775807;
+	};
+	52C58FA710C4B7CA00750508 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D5310C49E4000A9E7D9 /* AES256EncryptionOperation.m */;
+		name = "AES256EncryptionOperation.m: 2";
+		rLen = 0;
+		rLoc = 13;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 0;
+	};
+	52C58FA910C4B7CA00750508 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AES_EncryptorAppDelegate.h */;
+		name = "AES_EncryptorAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	52C58FBA10C4B8A700750508 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */;
+		name = "AES_EncryptorAppDelegate.m: 79";
+		rLen = 0;
+		rLoc = 2684;
+		rType = 0;
+		vrLen = 1990;
+		vrLoc = 1845;
+	};
+	52C58FBB10C4B8A700750508 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D5210C49E4000A9E7D9 /* AES256EncryptionOperation.h */;
+		name = "AES256EncryptionOperation.h: 2";
+		rLen = 0;
+		rLoc = 13;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 0;
+	};
+	52C58FCF10C4B9D900750508 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D5310C49E4000A9E7D9 /* AES256EncryptionOperation.m */;
+		name = "AES256EncryptionOperation.m: 48";
+		rLen = 0;
+		rLoc = 1181;
+		rType = 0;
+		vrLen = 1274;
+		vrLoc = 789;
 	};
 	8D1107260486CEB800E47090 /* AES Encryptor */ = {
 		activeExec = 0;

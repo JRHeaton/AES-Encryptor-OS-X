@@ -1,0 +1,555 @@
+TAES Encryptor
+v7
+r0
+t281328005.211427
+cCheck dependencies
+cProcessInfoPlistFile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Info.plist" AES_Encryptor-Info.plist
+cCopyStringsFile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB /Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/MainMenu.xib
+cCpResource "build/Release/AES Encryptor.app/Contents/Resources/Lock.png" Lock.png
+cCpResource "build/Release/AES Encryptor.app/Contents/Resources/Lock_Icon.icns" Lock_Icon.icns
+cProcessPCH /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch.gch AES_Encryptor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch.gch AES_Encryptor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch.gch AES_Encryptor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/main.o" /Users/John/Desktop/AES-Encryptor-OS-X/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES_EncryptorAppDelegate.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES256EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor" normal x86_64
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/main.o" /Users/John/Desktop/AES-Encryptor-OS-X/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES_EncryptorAppDelegate.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES256EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor" normal i386
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/main.o" /Users/John/Desktop/AES-Encryptor-OS-X/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES_EncryptorAppDelegate.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES256EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor" normal ppc
+cCreateUniversalBinary "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app.dSYM" "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor"
+cTouch "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/openssl/aes.h
+c000000004AB9A91A0000000000001632
+t1253681434
+s5682
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.h
+c000000004B147F91000000000000033A
+t1259634577
+s826
+i<Cocoa/Cocoa.h>
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m
+c000000004B147F9C0000000000000815
+t1259634588
+s2069
+i"AES256EncryptionOperation.h"
+i<openssl/aes.h>
+i<string.h>
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.h
+c000000004B14803E000000000000033A
+t1259634750
+s826
+i<Cocoa/Cocoa.h>
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m
+c000000004B1482390000000000000815
+t1259635257
+s2069
+i"AES256EncryptionOperation.h"
+i<openssl/aes.h>
+i<string.h>
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.h
+c000000004B14801000000000000002A0
+t1259634704
+s672
+i<Cocoa/Cocoa.h>
+i"AES256EncryptionOperation.h"
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m
+c000000004B147FC70000000000000F2A
+t1259634631
+s3882
+i"AES_EncryptorAppDelegate.h"
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch
+c000000004B1454FB000000000000009D
+t1259623675
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/InfoPlist.strings
+c000000004B1454FB000000000000002D
+t1259623675
+s45
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/MainMenu.xib
+c000000004B147FF700000000000354AE
+t1259634679
+s218286
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/Lock.png
+c000000004B1472220000000000005648
+t1259631138
+s22088
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/Lock_Icon.icns
+c000000004B1472900000000000014774
+t1259631248
+s83828
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor
+t1259635166
+s27080
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor.LinkFileList
+c000000004B147FFB0000000000000191
+t1259634683
+s401
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES128EncryptionOperation.o
+t1259632360
+s12248
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES256EncryptionOperation.o
+t1259635166
+s11824
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES_EncryptorAppDelegate.o
+t1259634760
+s35940
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/main.o
+t1259632360
+s4852
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor
+t1259635166
+s26424
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor.LinkFileList
+c000000004B147FFB000000000000018E
+t1259634683
+s398
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES128EncryptionOperation.o
+t1259632360
+s12704
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES256EncryptionOperation.o
+t1259635166
+s12168
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES_EncryptorAppDelegate.o
+t1259634760
+s37988
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/main.o
+t1259632360
+s4880
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor
+t1259635166
+s30080
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor.LinkFileList
+c000000004B147FFB0000000000000197
+t1259634683
+s407
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES128EncryptionOperation.o
+t1259632360
+s16860
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES256EncryptionOperation.o
+t1259635166
+s16104
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES_EncryptorAppDelegate.o
+t1259634760
+s51672
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/main.o
+t1259632359
+s5056
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app
+t1259635166
+s102
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app.dSYM
+t1259635166
+s102
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Info.plist
+t1259632351
+s966
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor
+t1259635166
+s91960
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/PkgInfo
+t1259632351
+s8
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1259632351
+s92
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj/MainMenu.nib
+t1259634683
+s43994
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/Lock.png
+t1259632351
+s22088
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/Lock_Icon.icns
+t1259632351
+s83828
+
+N/Users/John/Desktop/AES-Encryptor-OS-X/main.m
+c000000004B1454FB00000000000000FE
+t1259623675
+s254
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch.gch
+t1259632359
+s52737616
+
+N/var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch.gch
+t1259632356
+s52868880
+
+N/var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch.gch
+t1259632357
+s55502640
+
+NAES_Encryptor-Info.plist
+c000000004B14733C00000000000003F8
+t1259631420
+s1016
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281328005#281328005#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES128EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281325160.382569
+e281325160.692897
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES128EncryptionOperation.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m281325160#281325160#0(0"0(0#0#66"/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m4300885448#1656"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/i386" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES128EncryptionOperation.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES256EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281327966.225792
+e281327966.492728
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES256EncryptionOperation.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m281327966#281327966#0(0"0(0#0#66"/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m4300885448#1656"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/i386" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES256EncryptionOperation.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES_EncryptorAppDelegate.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281327559.982845
+e281327560.270094
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES_EncryptorAppDelegate.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m281327559#281327560#0(0"0(0#0#65"/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m4300885448#1654"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/i386" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES_EncryptorAppDelegate.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/main.o" /Users/John/Desktop/AES-Encryptor-OS-X/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281325159.919473
+e281325160.104401
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/main.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/John/Desktop/AES-Encryptor-OS-X/main.m281325159#281325160#0(0"0(0#0#45"/Users/John/Desktop/AES-Encryptor-OS-X/main.m4300885448#1614"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/i386" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/main.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES128EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s281325160.748647
+e281325161.017537
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES128EncryptionOperation.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m281325160#281325161#0(0"0(0#0#66"/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m4300885448#1650"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/ppc" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES128EncryptionOperation.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES256EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s281327966.543548
+e281327966.755545
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES256EncryptionOperation.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m281327966#281327966#0(0"0(0#0#66"/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m4300885448#1650"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/ppc" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES256EncryptionOperation.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES_EncryptorAppDelegate.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s281327560.483513
+e281327560.812373
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES_EncryptorAppDelegate.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m281327560#281327560#0(0"0(0#0#65"/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m4300885448#1648"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/ppc" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES_EncryptorAppDelegate.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/main.o" /Users/John/Desktop/AES-Encryptor-OS-X/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s281325160.409375
+e281325160.612820
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/main.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/John/Desktop/AES-Encryptor-OS-X/main.m281325160#281325160#0(0"0(0#0#45"/Users/John/Desktop/AES-Encryptor-OS-X/main.m4300885448#1608"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/ppc" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/main.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES128EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281325159.753141
+e281325160.043991
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES128EncryptionOperation.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m281325159#281325160#0(0"0(0#0#66"/Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m4300885448#1662"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/x86_64" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES128EncryptionOperation.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES128EncryptionOperation.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES256EncryptionOperation.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281327965.959571
+e281327966.491329
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES256EncryptionOperation.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m281327965#281327966#0(0"0(0#0#66"/Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m4300885448#1662"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/x86_64" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES256EncryptionOperation.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES256EncryptionOperation.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES_EncryptorAppDelegate.o" /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281327559.708485
+e281327560.080038
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES_EncryptorAppDelegate.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m281327559#281327560#0(0"0(0#0#65"/Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m4300885448#1660"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/x86_64" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/AES_EncryptorAppDelegate.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES_EncryptorAppDelegate.o"0#
+
+CCompileC "build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/main.o" /Users/John/Desktop/AES-Encryptor-OS-X/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281325159.520775
+e281325159.753033
+r1
+xCompileC
+xbuild/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/main.o
+x/Users/John/Desktop/AES-Encryptor-OS-X/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/John/Desktop/AES-Encryptor-OS-X/main.m281325159#281325159#0(0"0(0#0#45"/Users/John/Desktop/AES-Encryptor-OS-X/main.m4300885448#1620"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/x86_64" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -include /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch -c /Users/John/Desktop/AES-Encryptor-OS-X/main.m -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB /Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/MainMenu.xib
+s281327483.224722
+e281327483.822285
+r1
+xCompileXIB
+x/Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib281327483#281327483#0(0"0(0#0#65"/Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/MainMenu.xib30962543793864788#337"    cd /Users/John/Desktop/AES-Encryptor-OS-X    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj/MainMenu.nib" /Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s281325151.833402
+e281325151.864181
+r1
+xCopyStringsFile
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings281325151#281325151#0(0"0(0#0#70"/Users/John/Desktop/AES-Encryptor-OS-X/English.lproj/InfoPlist.strings8751166351191593984#375"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Release/AES Encryptor.app/Contents/Resources/Lock.png" Lock.png
+s281325151.864279
+e281325151.871261
+r1
+xCpResource
+xbuild/Release/AES Encryptor.app/Contents/Resources/Lock.png
+xLock.png
+lSLF07#2@13"Copy Lock.png281325151#281325151#0(0"0(0#0#47"/Users/John/Desktop/AES-Encryptor-OS-X/Lock.png4300885448#355"    cd /Users/John/Desktop/AES-Encryptor-OS-X    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/John/Desktop/AES-Encryptor-OS-X/Lock.png "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources"0#
+
+CCpResource "build/Release/AES Encryptor.app/Contents/Resources/Lock_Icon.icns" Lock_Icon.icns
+s281325151.865111
+e281325151.875493
+r1
+xCpResource
+xbuild/Release/AES Encryptor.app/Contents/Resources/Lock_Icon.icns
+xLock_Icon.icns
+lSLF07#2@19"Copy Lock_Icon.icns281325151#281325151#0(0"0(0#0#53"/Users/John/Desktop/AES-Encryptor-OS-X/Lock_Icon.icns4300885448#361"    cd /Users/John/Desktop/AES-Encryptor-OS-X    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/John/Desktop/AES-Encryptor-OS-X/Lock_Icon.icns "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor" normal "x86_64 i386 ppc"
+s281327966.789885
+e281327966.793529
+r1
+xCreateUniversalBinary
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@109"CreateUniversalBinary "build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor" normal "x86_64 i386 ppc"281327966#281327966#0(0"0(0#0#54"/Users/John/Desktop/AES-Encryptor-OS-X/x86_64 i386 ppc4300885448#570"    cd /Users/John/Desktop/AES-Encryptor-OS-X    /usr/bin/lipo -create "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor" "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor" "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor" -output "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor"0#
+
+CGenerateDSYMFile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app.dSYM" "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor"
+s281327966.793639
+e281327966.811586
+r1
+xGenerateDSYMFile
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app.dSYM
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor
+lSLF07#2@118"GenerateDSYMFile "build/Release/AES Encryptor.app.dSYM" "build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor"281327966#281327966#0(0"0(0#0#99"/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor4300885448#261"    cd /Users/John/Desktop/AES-Encryptor-OS-X    /Developer/usr/bin/dsymutil "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/MacOS/AES Encryptor" -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app.dSYM"0#
+
+CLd "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor" normal i386
+s281327966.492814
+e281327966.543240
+r1
+xLd
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor
+xnormal
+xi386
+lSLF07#2@131"Link /Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor281327966#281327966#0(0"0(0#0#0"4300885448#622"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -filelist "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor.LinkFileList" -mmacosx-version-min=10.6 -lcrypto -lssl -framework Cocoa -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/i386/AES Encryptor"0#
+
+CLd "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor" normal ppc
+s281327966.755647
+e281327966.789779
+r1
+xLd
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor
+xnormal
+xppc
+lSLF07#2@130"Link /Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor281327966#281327966#0(0"0(0#0#0"4300885448#619"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -filelist "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor.LinkFileList" -mmacosx-version-min=10.6 -lcrypto -lssl -framework Cocoa -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/ppc/AES Encryptor"0#
+
+CLd "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor" normal x86_64
+s281327966.491628
+e281327966.547498
+r1
+xLd
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor
+xnormal
+xx86_64
+lSLF07#2@133"Link /Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor281327966#281327966#0(0"0(0#0#0"4300885448#628"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -filelist "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor.LinkFileList" -mmacosx-version-min=10.6 -lcrypto -lssl -framework Cocoa -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/Objects-normal/x86_64/AES Encryptor"0#
+
+CProcessInfoPlistFile "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Info.plist" AES_Encryptor-Info.plist
+s281325151.820017
+e281325151.833293
+r1
+xProcessInfoPlistFile
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Info.plist
+xAES_Encryptor-Info.plist
+lSLF07#2@32"Process AES_Encryptor-Info.plist281325151#281325151#0(0"0(0#0#63"/Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor-Info.plist8458375105919275008#336"    cd /Users/John/Desktop/AES-Encryptor-OS-X    builtin-infoPlistUtility AES_Encryptor-Info.plist -genpkginfo "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch.gch AES_Encryptor_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s281325156.506133
+e281325159.520611
+r1
+xProcessPCH
+x/var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch.gch
+xAES_Encryptor_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile AES_Encryptor_Prefix.pch281325156#281325159#0(0"0(0#0#63"/Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch4300885448#1507"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/ppc" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -c /Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch -o /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-cdxidhsyisbqgfawldbjrzbijgja/AES_Encryptor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch.gch AES_Encryptor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281325152.435771
+e281325156.505904
+r1
+xProcessPCH
+x/var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch.gch
+xAES_Encryptor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile AES_Encryptor_Prefix.pch281325152#281325156#0(0"0(0#0#63"/Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch4300885448#1516"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/x86_64" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -c /Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch -o /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-eqjpmfnmdqddayazeubxbcdlzmfi/AES_Encryptor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch.gch AES_Encryptor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s281325152.437318
+e281325157.103148
+r1
+xProcessPCH
+x/var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch.gch
+xAES_Encryptor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile AES_Encryptor_Prefix.pch281325152#281325157#0(0"0(0#0#63"/Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch4300885448#1512"    cd /Users/John/Desktop/AES-Encryptor-OS-X    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-generated-files.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-own-target-headers.hmap" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-all-target-headers.hmap" -iquote "/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/AES Encryptor-project-headers.hmap" -F/Users/John/Desktop/AES-Encryptor-OS-X/build/Release -I/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/include "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources/i386" "-I/Users/John/Desktop/AES-Encryptor-OS-X/build/AES Encryptor.build/Release/AES Encryptor.build/DerivedSources" -c /Users/John/Desktop/AES-Encryptor-OS-X/AES_Encryptor_Prefix.pch -o /var/folders/Qh/Qh4St7x0GLKgCn5-d4ksdU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AES_Encryptor_Prefix-glvkxbsagmldxefmuiicttpyomba/AES_Encryptor_Prefix.pch.gch0#
+
+CTouch "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app"
+s281327966.811680
+e281327966.816006
+r1
+xTouch
+x/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app
+lSLF07#2@76"Touch /Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app281327966#281327966#0(0"0(0#0#0"4300885448#141"    cd /Users/John/Desktop/AES-Encryptor-OS-X    /usr/bin/touch -c "/Users/John/Desktop/AES-Encryptor-OS-X/build/Release/AES Encryptor.app"0#
+

@@ -56,7 +56,7 @@
 	[data release];
 }
 
-- (void)cryptoOperation:(AES128EncryptionOperation *)operation didFinishWithData:(NSData *)encryptedData {
+- (void)cryptoOperation:(AES256EncryptionOperation *)operation didFinishWithData:(NSData *)encryptedData {
 	[operation release];
 	
 	NSSavePanel *savePanel = [NSSavePanel savePanel];
@@ -74,7 +74,7 @@
 	else
 		type = kCryptoOperationTypeDecrypt;
 	
-	AES128EncryptionOperation *crypto = [[AES128EncryptionOperation alloc] initWithTarget:self delegate:self inputData:[NSData dataWithContentsOfFile:[fileField stringValue]] key:[keyField stringValue] operationType:type];
+	AES256EncryptionOperation *crypto = [[AES256EncryptionOperation alloc] initWithTarget:self delegate:self inputData:[NSData dataWithContentsOfFile:[fileField stringValue]] key:[keyField stringValue] operationType:type];
 	
 	[crypto start];
 										  
@@ -93,10 +93,10 @@
 }
 
 - (void)textDidChange:(NSNotification *)notification {
-	if([[[notification object] stringValue] length] > 16) {
+	if([[[notification object] stringValue] length] > 32) {
 		NSMutableString *mutableString = (NSMutableString *)[[notification object] stringValue];
 		[[notification object] setStringValue:[mutableString substringToIndex:[mutableString length] - 1]];
-		NSBeginAlertSheet(@"Error", @"OK", nil, nil, self.window, nil, nil, nil, NULL, @"Your key can't be more than 16 characters!");
+		NSBeginAlertSheet(@"Error", @"OK", nil, nil, self.window, nil, nil, nil, NULL, @"Your key can't be more than 32 characters!");
 	}
 }
 
