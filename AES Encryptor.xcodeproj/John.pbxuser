@@ -1,0 +1,444 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 586}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* AES_EncryptorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 586}}";
+			sepNavSelRange = "{186, 25}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {589, 1742}}";
+			sepNavSelRange = "{2452, 0}";
+			sepNavVisRange = "{2095, 579}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* AES_Encryptor_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 586}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 157}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 522D2C0710C48C7B00A9E7D9 /* AES Encryptor */;
+		activeTarget = 8D1107260486CEB800E47090 /* AES Encryptor */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AES Encryptor */,
+		);
+		codeSenseManager = 522D2C1410C48C9A00A9E7D9 /* Code sense */;
+		executables = (
+			522D2C0710C48C7B00A9E7D9 /* AES Encryptor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					781,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 281324801;
+			PBXWorkspaceStateSaveDate = 281324801;
+		};
+		perUserProjectItems = {
+			5206071910C4AD0A008B6B96 /* PlistBookmark */ = 5206071910C4AD0A008B6B96 /* PlistBookmark */;
+			522D2D1410C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D1410C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D1810C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D1810C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D1A10C49C2300A9E7D9 /* PBXBookmark */ = 522D2D1A10C49C2300A9E7D9 /* PBXBookmark */;
+			522D2D1C10C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D1C10C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D1E10C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D1E10C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D2010C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D2010C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D2210C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D2210C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D2410C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D2410C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D2910C49C2300A9E7D9 /* PBXTextBookmark */ = 522D2D2910C49C2300A9E7D9 /* PBXTextBookmark */;
+			522D2D3A10C49D2A00A9E7D9 /* PBXTextBookmark */ = 522D2D3A10C49D2A00A9E7D9 /* PBXTextBookmark */;
+			522D2D6D10C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D6D10C4A75A00A9E7D9 /* PBXTextBookmark */;
+			522D2D6E10C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D6E10C4A75A00A9E7D9 /* PBXTextBookmark */;
+			522D2D7010C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7010C4A75A00A9E7D9 /* PBXTextBookmark */;
+			522D2D7110C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7110C4A75A00A9E7D9 /* PBXTextBookmark */;
+			522D2D7210C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7210C4A75A00A9E7D9 /* PBXTextBookmark */;
+			522D2D7310C4A75A00A9E7D9 /* PBXTextBookmark */ = 522D2D7310C4A75A00A9E7D9 /* PBXTextBookmark */;
+			522D2D9410C4AAFC00A9E7D9 /* PBXTextBookmark */ = 522D2D9410C4AAFC00A9E7D9 /* PBXTextBookmark */;
+			522D2D9510C4AAFC00A9E7D9 /* PBXBookmark */ = 522D2D9510C4AAFC00A9E7D9 /* PBXBookmark */;
+			522D2D9610C4AAFC00A9E7D9 /* PBXTextBookmark */ = 522D2D9610C4AAFC00A9E7D9 /* PBXTextBookmark */;
+			524FD04110C4AB3C00141B0F /* PlistBookmark */ = 524FD04110C4AB3C00141B0F /* PlistBookmark */;
+		};
+		sourceControlManager = 522D2C1310C48C9A00A9E7D9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5206071910C4AD0A008B6B96 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AES_Encryptor-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/John/Desktop/AES Encryptor/AES_Encryptor-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	522D2C0710C48C7B00A9E7D9 /* AES Encryptor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "AES Encryptor";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	522D2C1310C48C9A00A9E7D9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	522D2C1410C48C9A00A9E7D9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	522D2D1410C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D1510C49C2300A9E7D9 /* CommonCryptor.h */;
+		name = "CommonCryptor.h: 226";
+		rLen = 0;
+		rLoc = 7481;
+		rType = 0;
+		vrLen = 1788;
+		vrLoc = 7231;
+	};
+	522D2D1510C49C2300A9E7D9 /* CommonCryptor.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CommonCryptor.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/usr/include/CommonCrypto/CommonCryptor.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D1810C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D1910C49C2300A9E7D9 /* NSDragging.h */;
+		name = "NSDragging.h: 40";
+		rLen = 0;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1444;
+		vrLoc = 0;
+	};
+	522D2D1910C49C2300A9E7D9 /* NSDragging.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDragging.h;
+		path = /System/Library/Frameworks/AppKit.framework/Headers/NSDragging.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D1A10C49C2300A9E7D9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 522D2D1B10C49C2300A9E7D9 /* File.png */;
+	};
+	522D2D1B10C49C2300A9E7D9 /* File.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = File.png;
+		path = /Users/John/Desktop/File.png;
+		sourceTree = "<absolute>";
+	};
+	522D2D1C10C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D1D10C49C2300A9E7D9 /* NSControl.h */;
+		name = "NSControl.h: 124";
+		rLen = 0;
+		rLoc = 3925;
+		rType = 0;
+		vrLen = 1391;
+		vrLoc = 807;
+	};
+	522D2D1D10C49C2300A9E7D9 /* NSControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSControl.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSControl.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D1E10C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D1F10C49C2300A9E7D9 /* NSAlert.h */;
+		name = "NSAlert.h: 70";
+		rLen = 0;
+		rLoc = 2263;
+		rType = 0;
+		vrLen = 1706;
+		vrLoc = 972;
+	};
+	522D2D1F10C49C2300A9E7D9 /* NSAlert.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSAlert.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSAlert.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D2010C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D2110C49C2300A9E7D9 /* NSText.h */;
+		name = "NSText.h: 98";
+		rLen = 0;
+		rLoc = 3691;
+		rType = 0;
+		vrLen = 1659;
+		vrLoc = 0;
+	};
+	522D2D2110C49C2300A9E7D9 /* NSText.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSText.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSText.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D2210C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D2310C49C2300A9E7D9 /* NSTextField.h */;
+		name = "NSTextField.h: 18";
+		rLen = 0;
+		rLoc = 385;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 72;
+	};
+	522D2D2310C49C2300A9E7D9 /* NSTextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSTextField.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSTextField.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D2410C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D2510C49C2300A9E7D9 /* NSOpenPanel.h */;
+		name = "NSOpenPanel.h: 13";
+		rLen = 11;
+		rLoc = 217;
+		rType = 0;
+		vrLen = 1314;
+		vrLoc = 109;
+	};
+	522D2D2510C49C2300A9E7D9 /* NSOpenPanel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSOpenPanel.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSOpenPanel.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D2710C49C2300A9E7D9 /* NSSavePanel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSSavePanel.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSSavePanel.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D2910C49C2300A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D2A10C49C2300A9E7D9 /* NSPanel.h */;
+		name = "NSPanel.h: 38";
+		rLen = 17;
+		rLoc = 2350;
+		rType = 0;
+		vrLen = 3079;
+		vrLoc = 804;
+	};
+	522D2D2A10C49C2300A9E7D9 /* NSPanel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSPanel.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSPanel.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D3A10C49D2A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D3B10C49D2A00A9E7D9 /* NSComboBox.h */;
+		name = "NSComboBox.h: 69";
+		rLen = 25;
+		rLoc = 2104;
+		rType = 0;
+		vrLen = 1647;
+		vrLoc = 1279;
+	};
+	522D2D3B10C49D2A00A9E7D9 /* NSComboBox.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSComboBox.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSComboBox.h;
+		sourceTree = "<absolute>";
+	};
+	522D2D5210C49E4000A9E7D9 /* AES128EncryptionOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 586}}";
+			sepNavSelRange = "{634, 0}";
+			sepNavVisRange = "{0, 826}";
+		};
+	};
+	522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 1053}}";
+			sepNavSelRange = "{1781, 0}";
+			sepNavVisRange = "{544, 1397}";
+		};
+	};
+	522D2D6D10C4A75A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* AES_Encryptor_Prefix.pch */;
+		name = "AES_Encryptor_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	522D2D6E10C4A75A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D6F10C4A75A00A9E7D9 /* aes.c */;
+		name = "aes.c: 21";
+		rLen = 1;
+		rLoc = 472;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 0;
+	};
+	522D2D6F10C4A75A00A9E7D9 /* aes.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = aes.c;
+		path = /Users/John/Desktop/aes.c;
+		sourceTree = "<absolute>";
+	};
+	522D2D7010C4A75A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D2710C49C2300A9E7D9 /* NSSavePanel.h */;
+		name = "NSSavePanel.h: 41";
+		rLen = 35;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 2662;
+		vrLoc = 10352;
+	};
+	522D2D7110C4A75A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AES_EncryptorAppDelegate.h */;
+		name = "AES_EncryptorAppDelegate.h: 10";
+		rLen = 25;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	522D2D7210C4A75A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AES_EncryptorAppDelegate.m */;
+		name = "AES_EncryptorAppDelegate.m: 71";
+		rLen = 0;
+		rLoc = 2310;
+		rType = 0;
+		vrLen = 1448;
+		vrLoc = 0;
+	};
+	522D2D7310C4A75A00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D5210C49E4000A9E7D9 /* AES128EncryptionOperation.h */;
+		name = "AES128EncryptionOperation.h: 27";
+		rLen = 0;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 0;
+	};
+	522D2D9410C4AAFC00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 522D2D5310C49E4000A9E7D9 /* AES128EncryptionOperation.m */;
+		name = "AES128EncryptionOperation.m: 61";
+		rLen = 0;
+		rLoc = 1781;
+		rType = 0;
+		vrLen = 1397;
+		vrLoc = 544;
+	};
+	522D2D9510C4AAFC00A9E7D9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 522D2D8810C4AA2000A9E7D9 /* Lock_Icon.icns */;
+	};
+	522D2D9610C4AAFC00A9E7D9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	524FD04110C4AB3C00141B0F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AES_Encryptor-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = "/Users/John/Desktop/AES Encryptor/AES_Encryptor-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8D1107260486CEB800E47090 /* AES Encryptor */ = {
+		activeExec = 0;
+		executables = (
+			522D2C0710C48C7B00A9E7D9 /* AES Encryptor */,
+		);
+	};
+}
